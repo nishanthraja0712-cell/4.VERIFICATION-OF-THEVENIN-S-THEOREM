@@ -1,6 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
-**AIM:**
+**AIM:** 
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
 
