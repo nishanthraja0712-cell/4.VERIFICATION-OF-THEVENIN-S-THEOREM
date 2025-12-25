@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
+To verify Thevenin’s theorem practically and theoretically for the given DC circuit. 
 
 **APPARATUS REQUIRED**:
 
